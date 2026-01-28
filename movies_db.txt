@@ -1,0 +1,13 @@
+Die Hard|1988|Action|Bruce Willis|NotRented
+RoboCop|1987|Action|Peter Weller|Rented
+Predator|1987|Action|Arnold Schwarzenegger|NotRented
+Lethal Weapon|1987|Action|Mel Gibson|Rented
+Commando|1985|Action|Arnold Schwarzenegger|NotRented
+First Blood|1982|Action|Sylvester Stallone|Rented
+The Terminator|1984|Action|Arnold Schwarzenegger|NotRented
+Mad Max 2|1981|Action|Mel Gibson|Rented
+Beverly Hills Cop|1984|Action|Eddie Murphy|NotRented
+Escape from New York|1981|Action|Kurt Russell|Rented
+Test Movie|2024|Action|Test Actor|NotRented
+Movie A|2001|Action|Actor A|Rented
+Movie B|2002|Action|Actor B|NotRented
