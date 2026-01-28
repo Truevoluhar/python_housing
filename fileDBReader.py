@@ -15,6 +15,21 @@ def readAllLines(filename: str):
         print(f"Napaka: {e}")
         return []
 
+
+def updateDatabase(filename: str, data):
+    try:
+        with open(filename, "w") as f:
+            f.write("")
+    except Exception as e:
+        print(f"Napaka pri brisanju podatkov iz baze: {e}")
+    try:
+        with open(filename, "a") as f:
+            for line in data:
+                f.write(line)
+    except Exception as e:
+        print(f"Napaka pri posodabljanju podatkov: {e}")
+
+
 def writeToFile(filename, data):
     with open(filename, "a") as f:
         f.write(str(data) + "\n")

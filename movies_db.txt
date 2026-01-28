@@ -1,4 +1,4 @@
-Die Hard|1988|Action|Bruce Willis|NotRented
+Die Hard|1988|Action|Bruce Willis|Rented
 RoboCop|1987|Action|Peter Weller|Rented
 Predator|1987|Action|Arnold Schwarzenegger|NotRented
 Lethal Weapon|1987|Action|Mel Gibson|Rented
